@@ -1,3 +1,1 @@
-*.h linguist-language=python;
-*.sh linguist-language=python;
-*.cfg linguist-language=python;
+*.* linguist-language=python;
